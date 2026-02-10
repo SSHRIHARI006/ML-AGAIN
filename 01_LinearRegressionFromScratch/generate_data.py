@@ -23,4 +23,4 @@ df = pd.DataFrame(
 )
 df["y"] = y
 
-df.to_csv("data.csv", index=False)
+df.to_csv("generated_data.csv", index=False)
